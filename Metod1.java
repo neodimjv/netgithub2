@@ -11,7 +11,7 @@ public class Metod1 {
         kullanicidan bu sayilari girmesini isteyin 
         ve sayilarin toplamini yazdirin. 
         Kullanici toplamak istedigi sayi adedini 4’den buyuk girerse 
-        “Cok sayi girdiniz, ben toplayamam” yazdirin.
+        “aaa Cok sayi girdiniz, ben toplayamam” yazdirin.
         */
 		
 		Scanner scan=new Scanner(System.in);
