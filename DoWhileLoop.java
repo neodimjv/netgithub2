@@ -30,6 +30,10 @@ public class DoWhileLoop {
 		krk++;
 		} while (krk<'z');
 		System.out.println("z");
+		System.out.println("");
+		for (char i = 'a'; i <'v'; i++) {
+			System.out.print(i);
+		}
 	}
 
 }
