@@ -16,7 +16,20 @@ public class DoWhileLoop {
 			System.out.print(s + " * ");
 			s++;
 		} while (s<10);
-
+		
+		char harf='m';
+		while (harf > 'c') {
+			harf--;
+			System.out.print("* "+ harf+" -");
+			
+		}
+		System.out.println("");
+		char krk='a';
+		do {
+			System.out.print(krk+" ");
+		krk++;
+		} while (krk<'z');
+		System.out.println("z");
 	}
 
 }
