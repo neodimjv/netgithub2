@@ -189,7 +189,7 @@ package netgithub2;
 	            krkUzun = krkUzunluKontrol(scan.nextInt());
 	        
 	        } else {
-	            if (kayit.containsKey(krkUzun)) {
+	           if (kayit.containsKey(krkUzun)) {
 	                System.out.println("Yazılan Kimlik numarası Sisteme Kayıtlıdır.\nBaşka Bir Kimlik Numarası Giriniz: ");
 	                krkUzun = scan.nextInt();
 	            }
@@ -197,6 +197,6 @@ package netgithub2;
 	        }
 	        return krkUzun;
 	    
-	}​
-	​
+	    }
 	}
+	
