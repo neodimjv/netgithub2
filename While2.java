@@ -22,7 +22,6 @@ public class While2 {
 		scan.close();
 		
 		
-
 	}
 
 }
