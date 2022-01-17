@@ -15,18 +15,17 @@ public class WhileToplama {
 			
 		}
 		
-	int sayý=0;
-	while (sayý<10&&sayac<5) {
-		toplam+=sayý;	
+	int sayÃ½=0;
+	while (sayÃ½<10&&sayac<5) {
+		toplam+=sayÃ½;	
 		sayac++;
 		
 		System.out.println("www"+toplam);
 	}
 	
 	
-		
-		System.out.println( "Toplam Sayý  : "+ toplam);
-		System.out.println("Girilen Sayý : "+sayac);
+		System.out.println( "Toplam SayÃ½  : "+ toplam);
+		System.out.println("Girilen SayÃ½ : "+sayac);
 	
 	
 }
