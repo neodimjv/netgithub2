@@ -7,8 +7,6 @@ public class Class01 {
 				
 	
 		
-				
-		
 	System.out.print("Hello")
 
 			
